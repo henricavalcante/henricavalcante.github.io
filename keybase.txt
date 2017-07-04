@@ -1,0 +1,55 @@
+==================================================================
+https://keybase.io/henricavalcante
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://henrimichel.com.br
+  * I am henricavalcante (https://keybase.io/henricavalcante) on keybase.
+  * I have a public key ASARdv6YMori4VfguRdoGhDzWC3AeByrmTXKCmGF0TrQrgo
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "eldest_kid": "0101afdd0a6d7f2ed6745f52054a18460bed81f56d9d9fe442c1fdc9fa642858141c0a",
+            "host": "keybase.io",
+            "kid": "01201176fe98328ae2e157e0b917681a10f3582dc0781cab9935ca0a6185d13ad0ae0a",
+            "uid": "96b8298a5b321e63d3e0d693c2451619",
+            "username": "henricavalcante"
+        },
+        "merkle_root": {
+            "ctime": 1499174246,
+            "hash": "d9ce7d348b416b4f6e3f44f3f86cd1206ebef1b1ba2e111ae8844b9a0bed3d2736bcc181c5bb3c8f0644f8084f235012cb3fec14659006186523de7be1885310",
+            "hash_meta": "81aa3f6ec6ba753f01ff4000729e0e44002b28fbcc0cd27b0479129fd7b7b204",
+            "seqno": 1209767
+        },
+        "service": {
+            "hostname": "henrimichel.com.br",
+            "protocol": "https:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "client": {
+        "name": "keybase.io go client",
+        "version": "1.0.24"
+    },
+    "ctime": 1499174275,
+    "expire_in": 504576000,
+    "prev": "cb2f7f08bc31d0a367baf76c2f8d61c09dc6ef8f23973fb0165254fd30f971c0",
+    "seqno": 26,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgEXb+mDKK4uFX4LkXaBoQ81gtwHgcq5k1ygphhdE60K4Kp3BheWxvYWTFA1J7ImJvZHkiOnsia2V5Ijp7ImVsZGVzdF9raWQiOiIwMTAxYWZkZDBhNmQ3ZjJlZDY3NDVmNTIwNTRhMTg0NjBiZWQ4MWY1NmQ5ZDlmZTQ0MmMxZmRjOWZhNjQyODU4MTQxYzBhIiwiaG9zdCI6ImtleWJhc2UuaW8iLCJraWQiOiIwMTIwMTE3NmZlOTgzMjhhZTJlMTU3ZTBiOTE3NjgxYTEwZjM1ODJkYzA3ODFjYWI5OTM1Y2EwYTYxODVkMTNhZDBhZTBhIiwidWlkIjoiOTZiODI5OGE1YjMyMWU2M2QzZTBkNjkzYzI0NTE2MTkiLCJ1c2VybmFtZSI6ImhlbnJpY2F2YWxjYW50ZSJ9LCJtZXJrbGVfcm9vdCI6eyJjdGltZSI6MTQ5OTE3NDI0NiwiaGFzaCI6ImQ5Y2U3ZDM0OGI0MTZiNGY2ZTNmNDRmM2Y4NmNkMTIwNmViZWYxYjFiYTJlMTExYWU4ODQ0YjlhMGJlZDNkMjczNmJjYzE4MWM1YmIzYzhmMDY0NGY4MDg0ZjIzNTAxMmNiM2ZlYzE0NjU5MDA2MTg2NTIzZGU3YmUxODg1MzEwIiwiaGFzaF9tZXRhIjoiODFhYTNmNmVjNmJhNzUzZjAxZmY0MDAwNzI5ZTBlNDQwMDJiMjhmYmNjMGNkMjdiMDQ3OTEyOWZkN2I3YjIwNCIsInNlcW5vIjoxMjA5NzY3fSwic2VydmljZSI6eyJob3N0bmFtZSI6ImhlbnJpbWljaGVsLmNvbS5iciIsInByb3RvY29sIjoiaHR0cHM6In0sInR5cGUiOiJ3ZWJfc2VydmljZV9iaW5kaW5nIiwidmVyc2lvbiI6MX0sImNsaWVudCI6eyJuYW1lIjoia2V5YmFzZS5pbyBnbyBjbGllbnQiLCJ2ZXJzaW9uIjoiMS4wLjI0In0sImN0aW1lIjoxNDk5MTc0Mjc1LCJleHBpcmVfaW4iOjUwNDU3NjAwMCwicHJldiI6ImNiMmY3ZjA4YmMzMWQwYTM2N2JhZjc2YzJmOGQ2MWMwOWRjNmVmOGYyMzk3M2ZiMDE2NTI1NGZkMzBmOTcxYzAiLCJzZXFubyI6MjYsInRhZyI6InNpZ25hdHVyZSJ9o3NpZ8RA1nfFnI2xWWtYM7GiAxBvOJG908SUr8xDyR7NmMQCmEc/UE6/kuNWtxrU+VdSpBpcBySpy/cq025YIVVFzJozB6hzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIG3UZirzSjNJ1iIQxWFTwn55xeQxrsfGK/z2c0wKbtR8o3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/henricavalcante
+
+==================================================================
